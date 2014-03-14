@@ -1,0 +1,14 @@
+D:\程式開發\Dictionary\Dictionary\bin\Release\Dictionary.exe
+D:\程式開發\Dictionary\Dictionary\bin\Release\Dictionary.pdb
+D:\程式開發\Dictionary\Dictionary\obj\Release\ResolveAssemblyReference.cache
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form1.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.Cache
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.exe
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.pdb
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form_desp.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form_version.resources
+D:\程式開發\Dictionary\Dictionary\bin\Release\Dictionary.exe.manifest
+D:\程式開發\Dictionary\Dictionary\bin\Release\Dictionary.application
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.exe.manifest
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.application

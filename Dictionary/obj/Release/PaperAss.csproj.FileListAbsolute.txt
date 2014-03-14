@@ -1,0 +1,14 @@
+D:\程式開發\Dictionary\Dictionary\bin\Release\PaperAss.exe.manifest
+D:\程式開發\Dictionary\Dictionary\bin\Release\PaperAss.application
+D:\程式開發\Dictionary\Dictionary\bin\Release\PaperAss.exe
+D:\程式開發\Dictionary\Dictionary\bin\Release\PaperAss.pdb
+D:\程式開發\Dictionary\Dictionary\obj\Release\ResolveAssemblyReference.cache
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form1.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form_desp.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\Dictionary.Form_version.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.Properties.Resources.resources
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.csproj.GenerateResource.Cache
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.exe.manifest
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.application
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.exe
+D:\程式開發\Dictionary\Dictionary\obj\Release\PaperAss.pdb

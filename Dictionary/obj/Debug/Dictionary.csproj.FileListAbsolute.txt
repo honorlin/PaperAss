@@ -1,0 +1,10 @@
+D:\程式開發\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\程式開發\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\程式開發\Dictionary\Dictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.Form_desp.resources
+D:\程式開發\Dictionary\Dictionary\obj\Debug\Dictionary.Form_version.resources
