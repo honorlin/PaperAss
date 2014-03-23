@@ -14,3 +14,7 @@
 
 <a href="https://dl.dropboxusercontent.com/u/75986505/GitHub/PaperAss/PaperAss.exe">Windows版本</a>
 
+License
+
+MIT-LICENSE
+
