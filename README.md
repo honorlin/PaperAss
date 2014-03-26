@@ -15,6 +15,7 @@
 <a href="https://dl.dropboxusercontent.com/u/75986505/GitHub/PaperAss/PaperAss.exe">Windows版本</a>
 
 License
+-------
 
-MIT-LICENSE
+PaperAss is Copyright © 2009-2014 honer. It is free software, and may be redistributed under the terms specified in the LICENSE file.
 
