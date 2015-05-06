@@ -12,7 +12,7 @@
 
 執行檔下載
 
-<a href="https://dl.dropboxusercontent.com/u/75986505/GitHub/PaperAss/PaperAss.exe">Windows版本</a>
+<a href="http://bit.ly/1Qlp5Pb">Windows版本</a>
 
 License
 -------
